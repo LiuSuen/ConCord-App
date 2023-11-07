@@ -1,0 +1,152 @@
+[
+  {
+    "First Name": "Olivia",
+    "Last Name": "Davis",
+    "City": "Portland",
+    "State": "Oregon",
+    "Country": "United States",
+    "Email": "olivia.davis@email.com",
+    "Phone": "+1-555-123-4567",
+    "Nots": "Met at a tech conference"
+  },
+  {
+    "First Name": "Ethan",
+    "Last Name": "Kim",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Country": "Canada",
+    "Email": "ethan.kim@email.com",
+    "Phone": "+1-416-555-7890",
+    "Nots": "Met at a language exchange event"
+  },
+  {
+    "First Name": "Sofia",
+    "Last Name": "Martinez",
+    "City": "Madrid",
+    "State": "Madrid",
+    "Country": "Spain",
+    "Email": "sofia.martinez@email.com",
+    "Phone": "+34-91-555-1234",
+    "Nots": "Met at a yoga class"
+  },
+  {
+    "First Name": "William",
+    "Last Name": "Lee",
+    "City": "Seoul",
+    "State": "Seoul",
+    "Country": "South Korea",
+    "Email": "william.lee@email.com",
+    "Phone": "+82-2-555-6789",
+    "Nots": "Met at a salsa dance class"
+  },
+  {
+    "First Name": "Emma",
+    "Last Name": "Johnson",
+    "City": "Sydney",
+    "State": "New South Wales",
+    "Country": "Australia",
+    "Email": "emma.johnson@email.com",
+    "Phone": "+61-2-555-5678",
+    "Nots": "Met at a music festival"
+  },
+  {
+    "First Name": "Lucas",
+    "Last Name": "Rodriguez",
+    "City": "Buenos Aires",
+    "State": "Buenos Aires",
+    "Country": "Argentina",
+    "Email": "lucas.rodriguez@email.com",
+    "Phone": "+54-11-555-4321",
+    "Nots": "Met at a hiking club"
+  },
+  {
+    "First Name": "Emily",
+    "Last Name": "Smith",
+    "City": "London",
+    "State": "England",
+    "Country": "United Kingdom",
+    "Email": "emily.smith@email.com",
+    "Phone": "+44-20-555-9876",
+    "Nots": "Met at a beach party"
+  },
+  {
+    "First Name": "Benjamin",
+    "Last Name": "Nguyen",
+    "City": "Ho Chi Minh City",
+    "State": "Ho Chi Minh",
+    "Country": "Vietnam",
+    "Email": "benjamin.nguyen@email.com",
+    "Phone": "+84-28-555-3456",
+    "Nots": "Met at a book club"
+  },
+  {
+    "First Name": "Chloe",
+    "Last Name": "Brown",
+    "City": "Paris",
+    "State": "France",
+    "Country": "France",
+    "Email": "chloe.brown@email.com",
+    "Phone": "+33-1-555-6789",
+    "Nots": "Met at a wine tasting event"
+  },
+  {
+    "First Name": "Jacob",
+    "Last Name": "Hernandez",
+    "City": "Mexico City",
+    "State": "Mexico City",
+    "Country": "Mexico",
+    "Email": "jacob.hernandez@email.com",
+    "Phone": "+52-55-555-1234",
+    "Nots": "Met at a museum"
+  },
+  {
+    "First Name": "Isabella",
+    "Last Name": "Kim",
+    "City": "Busan",
+    "State": "Busan",
+    "Country": "South Korea",
+    "Email": "isabella.kim@email.com",
+    "Phone": "+82-51-555-4567",
+    "Nots": "Met at a volunteering event"
+  },
+  {
+    "First Name": "Charlotte",
+    "Last Name": "Garcia",
+    "City": "Barcelona",
+    "State": "Catalonia",
+    "Country": "Spain",
+    "Email": "charlotte.garcia@email.com",
+    "Phone": "+34-93-555-2345",
+    "Nots": "Met at a farmers market"
+  },
+  {
+    "First Name": "Alexander",
+    "Last Name": "Rodriguez",
+    "City": "Lima",
+    "State": "Lima",
+    "Country": "Peru",
+    "Email": "alexander.rodriguez@email.com",
+    "Phone": "+51-1-555-5678",
+    "Nots": "Met at a cooking class"
+  },
+  {
+    "First Name": "Mia",
+    "Last Name": "Chen",
+    "City": "Taipei",
+    "State": "Taipei City",
+    "Country": "Taiwan",
+    "Email": "mia.chen@email.com",
+    "Phone": "+886-2-555-6789",
+    "Nots": "Met at a concert"
+  },
+  {
+    "First Name": "Daniel",
+    "Last Name": "Nguyen",
+    "City": "Hanoi",
+    "State": "Hanoi",
+    "Country": "Vietnam",
+    "Email": "daniel.nguyen@email.com",
+    "Phone": "+886-2-555-6788",
+    "Nots": "Met at a charity event"
+  }
+]
