@@ -25,7 +25,7 @@ Here is a guide on how to use our app:
 
 ## Installation
 
-To use the app, clone a project from GitLab to Xcode and run it on a device.
+To use the app, clone the project repository, open it in Xcode and run it on a device.
 
 ## Pre-loaded Data
 
